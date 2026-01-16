@@ -2,4 +2,9 @@ Hello world
 
 Second commit
 
+<<<<<<< HEAD
 First commit inside dev branch
+=======
+
+New changes in main branch
+>>>>>>> Main
