@@ -3,4 +3,5 @@ Hello world
 Second commit
 
 
-New changes in main branch
+
+Cleanup in dev branch after conflict
